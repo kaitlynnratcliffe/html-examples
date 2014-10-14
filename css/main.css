@@ -3,7 +3,7 @@ GENERAL
 ***********************************/
 
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: Cardo;
 }
 
 #wrapper {
@@ -39,7 +39,7 @@ header {
 }
 
 h1 {
-  font-family: 'Changa One', sans-serif;
+  font-family: 'Bubblegum Sans'
   margin: 15px 0;
   font-size: 1.75em;
   font-weight: normal;
@@ -104,15 +104,15 @@ PAGE: PORTFOLIO
   float: left;
   width: 45%;
   margin: 2.5%;
-  background-color: #E6E6E6;
-  color:#bdc3c7;
+  background-color: #FFFFFF;
+  color:  #B8B8D4;
 }
 
 #gallery li a p {
   margin: 0;
   padding: 5%;
   font-size: 0.75em;
-  color: #bdc3c7
+  color:#B8B8D4;
 }
 
 
@@ -122,13 +122,13 @@ COLORS
 
 /* site body */
 body {
-  background-color: #fff;
+  background-color: #E8E8E8;
   color: #999;
 }
 
 /* header */
 header {
-  background: #8282B4;
+  background: #5C5C6A;
   border-color: #B8B8D4;
 }
 
@@ -139,12 +139,12 @@ nav {
 
 /* logo text */
 h1, h2 {
-  color: #999999;
+  color: #B8B8D4;
 }
 
 /* links */
 a {
-  color:  #666699;
+  color:  #B8B8D4;
 }
 
 /* nav link */
@@ -154,7 +154,7 @@ nav a, nav a:visited {
 
 /* selected nav link */
 nav a.selected, nav a:hover {
-  color:  #333333;
+  color: #5C5C6A;
 }
 
 
